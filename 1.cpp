@@ -12,5 +12,6 @@ bool linearSearch(int arr[],int size,int key){
 
 int main() {
     cout << "Hello World" << endl;
-    return 0;
+    hi
+    heelloo
 }
